@@ -140,3 +140,60 @@ class Solution:
 
         return -1
 ```
+
+## 1013. Partition Array Into Three Parts With Equal Sum
+
+```
+Given an array of integers arr, return true if we can partition the array into three non-empty parts with equal sums.
+Formally, we can partition the array if we can find indexes i + 1 < j with (arr[0] + arr[1] + ... + arr[i] == arr[i + 1] + arr[i + 2] + ... + arr[j - 1] == arr[j] + arr[j + 1] + ... + arr[arr.length - 1])
+```
+
+Solution: Python
+
+```
+class Solution:
+    def canThreePartsEqualSum(self, arr: List[int]) -> bool:
+        sum1 =0
+        totalsum = sum(arr)
+        parts=0
+
+        if totalsum % 3 != 0:
+            return False
+
+        for i in range (0, len(arr)):
+            sum1 += arr[i]
+            if sum1 == totalsum // 3:
+                parts +=1
+                sum1 = 0
+            if parts >= 3:
+                return True
+        return False
+
+```
+
+## 26. Remove Duplicates from Sorted Array
+
+```
+Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once. The relative order of the elements should be kept the same.
+Consider the number of unique elements in nums to be k​​​​​​​​​​​​​​. After removing duplicates, return the number of unique elements k.
+The first k elements of nums should contain the unique numbers in sorted order. The remaining elements beyond index k - 1 can be ignored.
+```
+
+Solution: Python
+
+```
+class Solution:
+    def removeDuplicates(self, nums: List[int]) -> int:
+
+        if not nums:
+            return 0 ##for when array is empty
+
+        k = 1
+        for i in range(1, len(nums)):
+
+            if nums[i] != nums[i - 1]: #its a new number so place at k and inc k
+                nums[k] = nums[i]
+                k += 1
+
+        return k #k=unique elements
+```
