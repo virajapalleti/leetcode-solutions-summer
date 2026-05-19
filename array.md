@@ -197,3 +197,39 @@ class Solution:
 
         return k #k=unique elements
 ```
+
+## 560. Subarray Sum Equals K (without hashmap, thus time limit exceeded for large arrays)
+
+```
+Given an array of integers nums and an integer k, return the total number of subarrays whose sum equals to k.
+A subarray is a contiguous non-empty sequence of elements within an array.
+```
+
+Solution: Python
+
+```
+class Solution:
+    def subarraySum(self, nums: List[int], k: int) -> int:
+        n = len(nums)
+
+        prefixSum = [0] * n
+        prefixSum[0] = nums[0]
+
+        for i in range(1, n):
+            prefixSum[i] = prefixSum[i - 1] + nums[i]
+
+        total_subarrays = 0
+
+        for i in range(n):
+            for j in range(i, n):
+
+                if i == 0:
+                    subarray_sum = prefixSum[j]
+                else:
+                    subarray_sum = prefixSum[j] - prefixSum[i - 1]
+
+                if subarray_sum == k:
+                    total_subarrays += 1
+
+        return total_subarrays
+```
