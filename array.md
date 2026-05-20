@@ -233,3 +233,72 @@ class Solution:
 
         return total_subarrays
 ```
+
+## 53. Maximum Subarray ★★
+
+```
+Given an integer array nums, find the subarray with the largest sum, and return its sum.
+```
+
+Solution: Python
+
+```
+class Solution:
+    def maxSubArray(self, nums: List[int]) -> int:
+        totalsum = nums[0]
+        tempsum = nums[0]
+
+        for i in range(1, len(nums)):
+            tempsum = max(nums[i], nums[i]+tempsum)
+            totalsum = max(totalsum, tempsum)
+
+        return totalsum
+```
+
+## 121. Best Time to Buy and Sell Stock
+
+```
+You are given an array prices where prices[i] is the price of a given stock on the ith day.
+You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock.
+Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return 0.
+```
+
+Solution: Python
+
+```
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
+        buy = prices[0]
+        profit = 0
+
+        for i in range (1, len(prices)):
+            if prices[i] < buy:
+                buy = prices[i]
+            elif prices[i] - buy > profit:
+                profit = prices[i] - buy
+        return profit
+```
+
+## 122. Best Time to Buy and Sell Stock II
+
+```
+You are given an integer array prices where prices[i] is the price of a given stock on the ith day.
+
+On each day, you may decide to buy and/or sell the stock. You can only hold at most one share of the stock at any time. However, you can sell and buy the stock multiple times on the same day, ensuring you never hold more than one share of the stock.
+
+Find and return the maximum profit you can achieve
+```
+
+Solution: Python
+
+```
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
+        totprofit = 0
+        for i in range(1, len(prices)):
+            if prices[i] > prices[i - 1]:
+                totprofit += prices[i] - prices[i - 1]
+                    ##actually simpler than the previous, as just add it to total prfit, if any fo the next elements are greater than current
+        return totprofit
+
+```
