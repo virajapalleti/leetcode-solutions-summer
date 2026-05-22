@@ -302,3 +302,66 @@ class Solution:
         return totprofit
 
 ```
+
+## 238. Product of Array Except Self ★★★★
+
+```
+Given an integer array nums, return an array answer such that answer[i] is equal to the product of all the elements of nums except nums[i].
+The product of any prefix or suffix of nums is guaranteed to fit in a 32-bit integer.
+You must write an algorithm that runs in O(n) time and without using the division operation.
+Example 1:
+Input: nums = [1,2,3,4]
+Output: [24,12,8,6]
+```
+
+Solution: Python
+
+```
+class Solution:
+    def productExceptSelf(self, nums: List[int]) -> List[int]:
+        prefix = [1] * len(nums)
+        suffix = [1] * len(nums)
+        answer = [1] * len(nums)
+
+        ##prefix[0] = nums[0]
+        ##suffix[len(nums)-1] = nums[len(nums) -1]
+
+        for i in range (1, len(nums)):
+            prefix[i] = prefix [i-1] * nums[i-1] ##prof of evrything before the i and after the i, then their prod = answer
+        for i in range(len(nums)-2, -1, -1):
+            suffix[i] = suffix[i+1] * nums[i+1]
+
+        for i in range (0, len(nums)):
+            answer[i] = prefix[i] * suffix[i]
+
+        return answer
+```
+## 152. Maximum Product Subarray
+```
+Given an integer array nums, find a subarray that has the largest product, and return the product.
+The test cases are generated so that the answer will fit in a 32-bit integer.
+Note that the product of an array with a single element is the value of that element.
+
+Example 1:
+Input: nums = [2,3,-2,4]
+Output: 6
+Explanation: [2,3] has the largest product 6.
+```
+Solution: Python
+```
+class Solution:
+    def maxProduct(self, nums: List[int]) -> int:
+        cur_max = nums[0]
+        cur_min = nums[0]
+        global_max = nums[0]
+
+        for i in range(1, len(nums)):
+            num = nums[i]
+            temp_max = max(num, num * cur_max, num * cur_min)
+            cur_min = min(num, num * cur_max, num * cur_min)
+            cur_max = temp_max
+            
+            global_max = max(global_max, cur_max)
+
+        return global_max
+```
