@@ -22,6 +22,7 @@ Every solution includes approach, time complexity, and space complexity.
 | [0303-range-sum-query-immutable](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0918-maximum-sum-circular-subarray) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1991-find-the-middle-index-in-array) |
@@ -57,4 +58,8 @@ Every solution includes approach, time complexity, and space complexity.
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0303-range-sum-query-immutable) |
+## Greedy
+|  |
+| ------- |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 <!---LeetCode Topics End-->
