@@ -18,6 +18,7 @@ Every solution includes approach, time complexity, and space complexity.
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0152-maximum-product-subarray) |
 | [0303-range-sum-query-immutable](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0724-find-pivot-index) |
@@ -62,4 +63,8 @@ Every solution includes approach, time complexity, and space complexity.
 |  |
 | ------- |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
