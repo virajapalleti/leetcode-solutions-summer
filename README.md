@@ -27,6 +27,7 @@ Every solution includes approach, time complexity, and space complexity.
 | [0219-contains-duplicate-ii](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0918-maximum-sum-circular-subarray) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -78,6 +79,7 @@ Every solution includes approach, time complexity, and space complexity.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0349-intersection-of-two-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/2367-number-of-arithmetic-triplets) |
 ## Hash Table
 |  |
@@ -86,12 +88,14 @@ Every solution includes approach, time complexity, and space complexity.
 | [0217-contains-duplicate](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0349-intersection-of-two-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/2367-number-of-arithmetic-triplets) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -104,4 +108,8 @@ Every solution includes approach, time complexity, and space complexity.
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/2367-number-of-arithmetic-triplets) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
