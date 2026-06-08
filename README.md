@@ -33,6 +33,7 @@ Every solution includes approach, time complexity, and space complexity.
 | [1480-running-sum-of-1d-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1991-find-the-middle-index-in-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/2367-number-of-arithmetic-triplets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -77,6 +78,7 @@ Every solution includes approach, time complexity, and space complexity.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/2367-number-of-arithmetic-triplets) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +86,7 @@ Every solution includes approach, time complexity, and space complexity.
 | [0217-contains-duplicate](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0242-valid-anagram) |
+| [2367-number-of-arithmetic-triplets](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/2367-number-of-arithmetic-triplets) |
 ## Sorting
 |  |
 | ------- |
@@ -97,4 +100,8 @@ Every solution includes approach, time complexity, and space complexity.
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0219-contains-duplicate-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
