@@ -91,6 +91,7 @@ Every solution includes approach, time complexity, and space complexity.
 | [0349-intersection-of-two-arrays](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0451-sort-characters-by-frequency) |
+| [2351-first-letter-to-appear-twice](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/2351-first-letter-to-appear-twice) |
 | [2367-number-of-arithmetic-triplets](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/2367-number-of-arithmetic-triplets) |
 ## Sorting
 |  |
@@ -105,6 +106,7 @@ Every solution includes approach, time complexity, and space complexity.
 | [0242-valid-anagram](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0451-sort-characters-by-frequency) |
+| [2351-first-letter-to-appear-twice](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
 | ------- |
@@ -122,6 +124,7 @@ Every solution includes approach, time complexity, and space complexity.
 | ------- |
 | [0383-ransom-note](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0451-sort-characters-by-frequency) |
+| [2351-first-letter-to-appear-twice](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/2351-first-letter-to-appear-twice) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -130,4 +133,8 @@ Every solution includes approach, time complexity, and space complexity.
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0451-sort-characters-by-frequency) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
