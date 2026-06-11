@@ -80,6 +80,7 @@ Every solution includes approach, time complexity, and space complexity.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0349-intersection-of-two-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/2367-number-of-arithmetic-triplets) |
@@ -105,6 +106,7 @@ Every solution includes approach, time complexity, and space complexity.
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0451-sort-characters-by-frequency) |
