@@ -19,6 +19,7 @@ Every solution includes approach, time complexity, and space complexity.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -79,6 +80,7 @@ Every solution includes approach, time complexity, and space complexity.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -99,6 +101,7 @@ Every solution includes approach, time complexity, and space complexity.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0349-intersection-of-two-arrays) |
