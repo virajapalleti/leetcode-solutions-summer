@@ -22,6 +22,7 @@ Every solution includes approach, time complexity, and space complexity.
 | [0011-container-with-most-water](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0152-maximum-product-subarray) |
@@ -93,6 +94,7 @@ Every solution includes approach, time complexity, and space complexity.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0242-valid-anagram) |
@@ -105,6 +107,7 @@ Every solution includes approach, time complexity, and space complexity.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0349-intersection-of-two-arrays) |
@@ -112,6 +115,7 @@ Every solution includes approach, time complexity, and space complexity.
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0383-ransom-note) |
