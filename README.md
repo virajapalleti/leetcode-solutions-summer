@@ -19,6 +19,7 @@ Every solution includes approach, time complexity, and space complexity.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -75,11 +76,13 @@ Every solution includes approach, time complexity, and space complexity.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0125-valid-palindrome) |
