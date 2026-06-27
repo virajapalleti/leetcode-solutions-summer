@@ -47,6 +47,7 @@ Every solution includes approach, time complexity, and space complexity.
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0918-maximum-sum-circular-subarray) |
+| [1763-longest-nice-substring](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1763-longest-nice-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,6 +110,7 @@ Every solution includes approach, time complexity, and space complexity.
 | [0349-intersection-of-two-arrays](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0451-sort-characters-by-frequency) |
+| [1763-longest-nice-substring](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1763-longest-nice-substring) |
 | [2351-first-letter-to-appear-twice](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/2351-first-letter-to-appear-twice) |
 | [2367-number-of-arithmetic-triplets](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/2367-number-of-arithmetic-triplets) |
 ## Sorting
@@ -132,12 +134,14 @@ Every solution includes approach, time complexity, and space complexity.
 | [0344-reverse-string](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0451-sort-characters-by-frequency) |
+| [1763-longest-nice-substring](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1763-longest-nice-substring) |
 | [2351-first-letter-to-appear-twice](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0643-maximum-average-subarray-i) |
+| [1763-longest-nice-substring](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1763-longest-nice-substring) |
 ## Enumeration
 |  |
 | ------- |
@@ -164,5 +168,6 @@ Every solution includes approach, time complexity, and space complexity.
 ## Bit Manipulation
 |  |
 | ------- |
+| [1763-longest-nice-substring](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1763-longest-nice-substring) |
 | [2351-first-letter-to-appear-twice](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
