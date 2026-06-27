@@ -40,6 +40,7 @@ Every solution includes approach, time complexity, and space complexity.
 | [0977-squares-of-a-sorted-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0977-squares-of-a-sorted-array) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1480-running-sum-of-1d-array) |
+| [1652-defuse-the-bomb](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1652-defuse-the-bomb) |
 | [1929-concatenation-of-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1991-find-the-middle-index-in-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/2367-number-of-arithmetic-triplets) |
@@ -141,6 +142,7 @@ Every solution includes approach, time complexity, and space complexity.
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0643-maximum-average-subarray-i) |
+| [1652-defuse-the-bomb](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1652-defuse-the-bomb) |
 | [1763-longest-nice-substring](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1763-longest-nice-substring) |
 ## Enumeration
 |  |
