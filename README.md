@@ -39,6 +39,7 @@ Every solution includes approach, time complexity, and space complexity.
 | [0724-find-pivot-index](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1004-max-consecutive-ones-iii) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1480-running-sum-of-1d-array) |
 | [1652-defuse-the-bomb](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1652-defuse-the-bomb) |
@@ -76,6 +77,7 @@ Every solution includes approach, time complexity, and space complexity.
 | [0238-product-of-array-except-self](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1991-find-the-middle-index-in-array) |
 ## Design
@@ -145,6 +147,7 @@ Every solution includes approach, time complexity, and space complexity.
 | [0209-minimum-size-subarray-sum](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1004-max-consecutive-ones-iii) |
 | [1652-defuse-the-bomb](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1652-defuse-the-bomb) |
 | [1763-longest-nice-substring](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1763-longest-nice-substring) |
 ## Enumeration
@@ -157,6 +160,7 @@ Every solution includes approach, time complexity, and space complexity.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0349-intersection-of-two-arrays) |
+| [1004-max-consecutive-ones-iii](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1004-max-consecutive-ones-iii) |
 ## Counting
 |  |
 | ------- |
