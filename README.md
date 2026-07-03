@@ -46,6 +46,7 @@ Every solution includes approach, time complexity, and space complexity.
 | [1929-concatenation-of-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1991-find-the-middle-index-in-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/2367-number-of-arithmetic-triplets) |
+| [3206-alternating-groups-i](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/3206-alternating-groups-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -160,6 +161,7 @@ Every solution includes approach, time complexity, and space complexity.
 | [1652-defuse-the-bomb](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1652-defuse-the-bomb) |
 | [1763-longest-nice-substring](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1763-longest-nice-substring) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3206-alternating-groups-i](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/3206-alternating-groups-i) |
 ## Enumeration
 |  |
 | ------- |
