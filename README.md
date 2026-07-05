@@ -44,6 +44,7 @@ Every solution includes approach, time complexity, and space complexity.
 | [1480-running-sum-of-1d-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1480-running-sum-of-1d-array) |
 | [1652-defuse-the-bomb](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1652-defuse-the-bomb) |
 | [1929-concatenation-of-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1929-concatenation-of-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1991-find-the-middle-index-in-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/2367-number-of-arithmetic-triplets) |
 | [3206-alternating-groups-i](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/3206-alternating-groups-i) |
@@ -135,6 +136,7 @@ Every solution includes approach, time complexity, and space complexity.
 | [0349-intersection-of-two-arrays](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0977-squares-of-a-sorted-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## String
 |  |
 | ------- |
@@ -160,6 +162,7 @@ Every solution includes approach, time complexity, and space complexity.
 | [1004-max-consecutive-ones-iii](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1004-max-consecutive-ones-iii) |
 | [1652-defuse-the-bomb](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1652-defuse-the-bomb) |
 | [1763-longest-nice-substring](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1763-longest-nice-substring) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3206-alternating-groups-i](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/3206-alternating-groups-i) |
 ## Enumeration
