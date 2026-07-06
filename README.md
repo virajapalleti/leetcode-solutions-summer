@@ -178,6 +178,7 @@ Every solution includes approach, time complexity, and space complexity.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1004-max-consecutive-ones-iii) |
 ## Counting
@@ -199,4 +200,8 @@ Every solution includes approach, time complexity, and space complexity.
 | ------- |
 | [1763-longest-nice-substring](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1763-longest-nice-substring) |
 | [2351-first-letter-to-appear-twice](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/2351-first-letter-to-appear-twice) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
