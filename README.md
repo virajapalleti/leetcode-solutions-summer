@@ -36,6 +36,7 @@ Every solution includes approach, time complexity, and space complexity.
 | [0303-range-sum-query-immutable](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0977-squares-of-a-sorted-array) |
@@ -175,6 +176,7 @@ Every solution includes approach, time complexity, and space complexity.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1004-max-consecutive-ones-iii) |
 ## Counting
 |  |
