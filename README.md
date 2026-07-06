@@ -22,6 +22,7 @@ Every solution includes approach, time complexity, and space complexity.
 | [0011-container-with-most-water](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0088-merge-sorted-array) |
@@ -173,6 +174,7 @@ Every solution includes approach, time complexity, and space complexity.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0349-intersection-of-two-arrays) |
