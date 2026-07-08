@@ -40,6 +40,7 @@ Every solution includes approach, time complexity, and space complexity.
 | [0643-maximum-average-subarray-i](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1004-max-consecutive-ones-iii) |
@@ -182,6 +183,7 @@ Every solution includes approach, time complexity, and space complexity.
 | [0374-guess-number-higher-or-lower](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1004-max-consecutive-ones-iii) |
 ## Counting
 |  |
