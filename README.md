@@ -29,6 +29,7 @@ Every solution includes approach, time complexity, and space complexity.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0217-contains-duplicate) |
@@ -177,6 +178,7 @@ Every solution includes approach, time complexity, and space complexity.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0349-intersection-of-two-arrays) |
