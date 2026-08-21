@@ -77,6 +77,7 @@ Every solution includes approach, time complexity, and space complexity.
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
@@ -153,6 +154,7 @@ Every solution includes approach, time complexity, and space complexity.
 | [0242-valid-anagram](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0383-ransom-note) |
+| [0412-fizz-buzz](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0567-permutation-in-string) |
 | [1763-longest-nice-substring](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/1763-longest-nice-substring) |
@@ -222,4 +224,8 @@ Every solution includes approach, time complexity, and space complexity.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0287-find-the-duplicate-number) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/virajapalleti/leetcode-solutions-summer/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
